@@ -1,0 +1,12 @@
+.productCard{
+    position: relative;
+}
+
+.productCard .promo{
+    position: absolute;
+    left: 0;
+    background: black;
+    padding: 5px 15px;
+    color: white;
+    top: 30px;
+}
